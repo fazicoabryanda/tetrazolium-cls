@@ -667,7 +667,7 @@ model, model_err = load_model(model_path_input)
 st.markdown("""
 <div class="hero-banner">
     <div class="hero-overline">&#129516; Seed Science &amp; Technology Lab</div>
-    <h1 class="hero-heading">Tetrazolium Viability Test</h1>
+    <h1 class="hero-heading" style="color: white;">Tetrazolium Viability Test</h1>
     <p class="hero-description">
         Klasifikasi viabilitas benih secara otomatis menggunakan deep learning
         YOLOv11. Upload gambar hasil pewarnaan TZ untuk menentukan apakah benih
