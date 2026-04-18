@@ -2,5 +2,5 @@
 primaryColor="#009877"  # Kode hex untuk hijau tua (DarkGreen)
 backgroundColor="#ffffff"  # Opsional: Atur warna latar belakang
 secondaryBackgroundColor="#005441"  # Opsional: Atur warna latar belakang sekunder
-textColor="#FFFFFF"  # Opsional: Atur warna teks
+textColor="#000000"  # Opsional: Atur warna teks
 font="sans serif"  # Opsional: Atur jenis font
